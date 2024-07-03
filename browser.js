@@ -97,6 +97,7 @@ export { default as LOBSTER } from './cows/lobster.cow';
 export { default as LOLLERSKATES } from './cows/lollerskates.cow';
 export { default as LUKE_KOALA } from './cows/luke-koala.cow';
 export { default as MAILCHIMP } from './cows/mailchimp.cow';
+export { default as MANEKI } from './cows/maneki.cow';
 export { default as MAZE_RUNNER } from './cows/maze-runner.cow';
 export { default as MECH_AND_COW } from './cows/mech-and-cow.cow';
 export { default as MEOW } from './cows/meow.cow';
